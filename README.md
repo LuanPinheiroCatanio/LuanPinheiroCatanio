@@ -2,7 +2,7 @@
 Meu nome é Luan Pinheiro Catanio
 - Estou começando no mundo da progamação
 - Sou professor de Física da rede estadual de ensino do estado de São Paulo
-- Procuro meu aprofundar nas linguagens JAVASCRIPTH E PYTHON
+- Procuro me aprofundar nas linguagens JAVASCRIPTH E PYTHON
 - Compartilho meus estudos e ideias aqui
 
 ##  Fique a vontade para entrar em contato comigo 📩
