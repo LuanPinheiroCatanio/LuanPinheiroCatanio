@@ -14,6 +14,7 @@ luancatanio@prof.educacao.sp.gov.br
 @luanpinheiroc
 
 ![](https://media1.tenor.com/m/Pt3WqGJBXLUAAAAd/blackhole-space.gif)
+![OI](https://media1.tenor.com/m/XfrqyR_-jzIAAAAC/anime-goku.gif)
 
 
 
