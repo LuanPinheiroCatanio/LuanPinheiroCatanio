@@ -7,7 +7,7 @@ Meu nome é Luan Pinheiro Catanio
 
 ##  Fique a vontade para entrar em contato comigo 📩
 
-luancatanio@prof.educacao.sp.gov.br
+<luancatanio@prof.educacao.sp.gov.br>
 
 ## No Instragram 
 
