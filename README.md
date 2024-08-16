@@ -7,8 +7,6 @@ Meu nome é Luan Pinheiro Catanio
 
 ##  Fique a vontade para entrar em contato comigo 📩
 
-<luancatanio@prof.educacao.sp.gov.br>
-
 <div align="left">
   <a href="https://www.instagram.com/luanpinheiroc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
